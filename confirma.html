@@ -1,0 +1,40 @@
+﻿<?php 
+	session_start();
+
+	if(isset($_SESSION['user'])){
+ ?>
+
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>Graxias </title>
+	<?php require_once "scripts.php"; ?>
+</head>
+<body style="background: url(../imagen/fondo2.jpg) ">
+<br><br><br>
+
+<div>
+	<H1>
+		<strong>Graxias Por Por Su Mensaje Le Responderemos En Menos de 24 Hora 
+		</strong> 
+	</H1>
+</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="jumbotron">
+				<a href="/index.html" class="btn btn-info">Explorar NT"DESWEB</a>
+				<a href="../descargas-full.html" class="btn btn-info">Ir a La Pagina de Descarga </a>
+				<a href="php/salir.php" class="btn btn-danger"></a>	
+			</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+
+<?php
+} else {
+	header("location:index.php");
+	}
+ ?>

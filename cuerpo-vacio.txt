@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>NT'DESWEB | 	SERVICIOS </title>
+
+	<meta charset="utf-8">
+	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="description" content="">
+	<link rel="author" href="https://plus.google.com/u/0/104296509460513856975" />
+	
+	<!-- Google Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700,600,800,400,300%7CMontserrat:400,700%7CRaleway:600,400' rel='stylesheet'>
+	<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700,700italic' rel='stylesheet' type='text/css'>
+
+	<!-- Css -->
+	<link rel="stylesheet" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" />
+	<link rel="stylesheet" href="revolution/css/settings.css" />
+	<link rel="stylesheet" href="css/rev-slider.css" />
+	<link rel="stylesheet" href="css/font-icons.css" />
+	<link rel="stylesheet" href="css/sliders.css" /> 
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/responsive.css" />
+	<link rel="stylesheet" href="css/spacings.css" />
+	<link rel="stylesheet" href="css/animate.min.css" />
+	<link rel="stylesheet" href="css/color.css" />
+
+	<!-- Favicons -->
+	<link rel="icon" href="img/LOGO NT -.png">
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+
+</head>
+
+<body>
+
+	<!-- Preloader -->
+	<div class="loader-mask">
+		<div class="loader">
+			"CARGANDO ..."
+		</div>
+	</div>
+
+	<header class="nav-type-1">
+
+		<div class="top-bar hidden-xs">
+			<div class="container">
+				<div class="row">
+					<div class="top-bar-links">
+						<ul class="col-sm-6">
+							<li class="top-bar-email">
+								<i class="fa fa-envelope"></i><a href="mailto:nacho_torres_1123@hotmail.com">nacho_torres_1123@hotmail.com</a>
+							</li>
+							<li class="top-bar-phone">
+																<i class="fa fa-phone"></i><span>+1 829 944-5224 / +1 809 207-2326</span>
+							</li>
+						</ul>
+
+						<div class="col-sm-6 social-icons text-right nopadding">
+							<a href="contact.html"><i class="fa fa-whatsapp"></i></a>
+							<a href="https://www.instagram.com/nachotorres_x3/"><i class="fa fa-instagram"></i></a>
+							<a href="https://www.facebook.com/nachoTorres11"><i class="fa fa-facebook"></i></a>									
+							<a href="contact.html"><i class="fa fa-google"></i></a>
+							<a href="https://www.youtube.com/channel/UCzwd5mLl0v8p4upMiKCphsA"><i class="fa fa-youtube"></i></a>
+								
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div> <!-- end top bar -->
+
+		<nav class="navbar navbar-static-top">
+			<div class="navigation">
+				<div class="container relative">
+
+					<form method="get" class="search-wrap">
+						<input type="search" class="form-control" placeholder="Type &amp; Hit Enter">
+					</form>
+
+					<div class="row">
+
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div> <!-- end navbar-header -->
+
+						<!-- Logo -->
+						<div class="logo-container">
+							<div class="logo-wrap">
+								<a href="index.html">
+									<img class="logo" height="100px" width="100px" src="./img/transaparente.png" alt="logo">
+								</a>
+							</div>
+						</div>
+
+						<!-- Mobile Cart -->
+						<div class="cart-mobile hidden-lg hidden-md">
+							<div class="nav-cart">
+								<div class="cart-outer">
+									<div class="cart-inner">
+										<a class="shopping-cart relative" href="cart.html">
+											<i class="fa fa-shopping-cart"></i>
+											<span>2</span>
+										</a>
+									</div>
+								</div>
+							</div>	        		        	
+						</div>
+
+						<div class="col-md-9 nav-wrap right">
+							<div class="collapse navbar-collapse" id="navbar-collapse">
+
+								<ul class="nav navbar-nav navbar-right">
+
+									<li class="dropdown active">
+										<a href="index.html" class="dropdown-toggle" data-toggle="dropdown"> Inicio </a>
+										
+									</li>
+
+									<li class="dropdown">
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown"> SERVICIOS </a>
+										<ul class="dropdown-menu">
+											<li><a href="about-us.html">Diseño Grafico </a></li>
+											<li><a href="magazine-categories.html">Desarollo de pagina web </a></li>
+											<li><a href="magazine-single-article.html">Publicida </a></li>
+											<li><a href="contact.html">Marketing </a></li>
+											<li><a href="faq.html">Rediseña tu Pagina Web </a></li>										
+											<li><a href="faq.html"> Otros Servicios </a></li>
+										</ul>
+									</li>
+
+									<li class="dropdown">	
+										
+									</li> <!-- end portfolio -->
+
+									<li class="dropdown">
+										<a href="portfolio-2-col-title.html" class="">DESCARGAS GRATIS</a>
+										<ul class="dropdown-menu">
+											<li><a href="blog-standard.html">Programas  </a></li>
+											<li><a href="blog-masonry.html"> Plantillas </a></li>
+											<li><a href="blog-single.html"> Pack PSD</a></li>
+											<li><a href="blog-no-sidebar.html"> Mega PACK </a></li>
+											<li><a href="blog-no-sidebar.html"> Mas Descargas  </a></li>
+										</ul>
+									</li>
+
+									<li class="dropdown">
+										<a href="contact.html">Contacto</a>										
+									</li>
+
+									<li class="dropdown">
+										<a href="./enlase/login.html" > LOGIN</a>
+										
+									</li> <!-- end login -->
+
+									<li id="mobile-search" class="hidden-lg hidden-md">
+										<form method="get" class="mobile-search">
+											<input type="search" class="form-control" placeholder="Search...">
+											<button type="submit" class="search-button">
+												<i class="fa fa-search"></i>
+											</button>
+										</form>
+									</li>
+
+									<li>
+										<a href="#" class="nav-search">
+											<i class="fa fa-search search-trigger"></i>
+											<i class="fa fa-times search-close"></i>
+										</a>
+									</li>
+
+									<!-- Cart -->
+									<li class="nav-cart-wrap style-1 hidden-sm hidden-xs">
+										<div class="nav-cart">
+											<div class="cart-outer">
+												<div class="cart-inner">
+													<a class="shopping-cart relative" href="cart.html">
+														
+													</a>
+												</div>
+											</div>
+											<div class="nav-cart-container">
+												<div class="nav-cart-items">
+
+													<div class="nav-cart-item clearfix">
+													
+
+													<div class="nav-cart-item clearfix">
+														
+													
+														
+													</div>
+
+												</div>
+
+												
+
+											
+											</div>
+
+										</div>
+									</li> <!-- end cart -->	
+
+								</ul> <!-- end menu -->
+							</div> <!-- end collapse -->
+						</div> <!-- end col -->
+
+					</div> <!-- end row -->
+				</div> <!-- end container -->
+			</div> <!-- end navigation -->
+		</nav> <!-- end navbar -->
+	</header>
+<!-- Footer Type-1 -->
+<footer class="footer footer-type-1">
+    <div class="container">
+        <div class="footer-widgets">
+            <div class="row">
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-about-us">
+                        <h5>Sobre Nosotros </h5>
+                        <p class="mb-0"> NT¨DESWEB Es Una Compañia Destinada A La publicidad online, ANuncios, Diseños Grafico, Flayer, Creasion de Paginas Web, Y mas.. 
+                            
+                        </p>
+                    </div>
+                </div> <!-- end about us -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-get-in-touch">
+                        <h5>Ponte en Contacto</h5>
+                        <p class="footer-address">Republica Dominicana <br> Santo Domingo D.N </p>
+                        <p>Phone: + 1 829-944-5224</p>
+                        <p>Email: <a href="mailto:nacho_torres_1123@hotmail.com">nacho_torres_1123@hotmail.com</a></p>
+                        <p>Whatsapp: + 1 809-207-2326  </p>
+                    </div>
+                </div> <!-- end stay in touch -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-posts">
+                        <h5>Ultimas Noticias </h5>
+                        <div class="footer-entry-list">
+                            <ul class="posts-list no-top-pad">
+                                <li class="footer-entry small-space">
+                                    <article class="post-small clearfix">
+                                        <div class="entry">
+                                            <h3 class="entry-title"><a href="#">Pack de Fondos </a></h3>
+                                            <ul class="entry-meta list-inline">
+                                                <li class="entry-date">
+                                                    <a href="#">20 Mar, 2019</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                </li>
+                                <li class="footer-entry small-space">
+                                    <article class="post-small clearfix">
+                                        <div class="entry">
+                                            <h3 class="entry-title"><a href="#">Plantillas PSD</a></h3>
+                                            <ul class="entry-meta list-inline">
+                                                <li class="entry-date">
+                                                    <a href="#">19 Mar, 2019</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                </li>
+                                <li class="footer-entry small-space">
+                                    <article class="post-small clearfix">
+                                        <div class="entry">
+                                            <h3 class="entry-title"><a href="#">Como Descargar Visual Studio Code </a></h3>
+                                            <ul class="entry-meta list-inline">
+                                                <li class="entry-date">
+                                                    <a href="#">18 Mar, 2019</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </article>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div> <!-- end latest posts -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-links">
+                        <h5> Paginas Relacionadas </h5>
+                        <ul>
+                            <li><a href="#" class="link-underline">DISEÑAR TU PAGINA WEB</a></li>
+                            <li><a href="#">Publicida para eventos </a></li>
+                            <li><a href="#"> DESCARGAR</a></li>
+                            <li><a href="#"> Contacto </a></li>
+                        </ul>
+
+                    </div>
+                </div> <!-- end useful links -->
+
+            </div>
+        </div>		
+    </div> <!-- end container -->
+
+    <div class="bottom-footer">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 copyright">
+                    <span>
+                        © 2019 NT´DESWEB  |  Hecho Por  <a href="index.html">NT´DESWEB</a>
+                    </span>
+                </div>
+                    
+                <div class="col-sm-4 col-sm-offset-2 footer-socials mt-mdm-10">
+                    <div class="social-icons text-right">
+                        <a href="contact.html"><i class="fa fa-whatsapp"></i></a>
+                        <a href="https://www.instagram.com/nachotorres_x3/"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/nachoTorres11"><i class="fa fa-facebook"></i></a>									
+                        <a href="contact.html"><i class="fa fa-google"></i></a>
+                        <a href="https://www.youtube.com/channel/UCzwd5mLl0v8p4upMiKCphsA"><i class="fa fa-youtube"></i></a>
+                        
+                        
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div> <!-- end bottom footer -->
+</footer> <!-- end footer -->
+
+<div id="back-to-top">
+    <a href="#top"><i class="fa fa-angle-up"></i></a>
+</div>
+
+</div> <!-- end main-wrapper -->
+
+<!-- jQuery Scripts -->		
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/plugins.js"></script>
+<script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="js/rev-slider.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+
+
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
+<script type="text/javascript" src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+
+</body>
+</html>
